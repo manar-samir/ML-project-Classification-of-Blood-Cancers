@@ -12,9 +12,6 @@ The aim of this project is to develop a machine learning model that can accurate
 # License
 This content is shared under the MIT License. Feel free to use and adapt the materials with proper attribution.
 
-# Additional information
-For more instructions, see the code and the documentation provided in this repository.
-
 # Setup Instructions
 To follow along with the hands-on sections of this project:
 
@@ -23,4 +20,6 @@ To follow along with the hands-on sections of this project:
 - Python Part: Can work on your Own Jupyter Notebook or Colab
 - Clone this repository:
        git clone (https://github.com/username/ML-project-Classification-of-Blood-Cancers.git)
+  - For more instructions, see the code and the documentation provided in this repository.
+
 
