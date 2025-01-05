@@ -22,9 +22,8 @@ For more instructions, see the code and the documentation provided in this repos
 # Setup Instructions
 To follow along with the hands-on sections of this project:
 
-Install R: [Download R](https://cran.r-project.org/)
-Install RStudio: [Download RStudio](https://posit.co/products/open-source/rstudio/)
-Python Part: Can work on your Own Jupyter Notebook or Colab
-Clone this repository:
-git clone (https://github.com/username/ML-project-Classification-of-Blood-Cancers.git)
+- Install R: [Download R](https://cran.r-project.org/)
+- Install RStudio: [Download RStudio](https://posit.co/products/open-source/rstudio/)
+- Python Part: Can work on your Own Jupyter Notebook or Colab
+- Clone this repository: git clone (https://github.com/username/ML-project-Classification-of-Blood-Cancers.git)
 
