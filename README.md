@@ -7,4 +7,11 @@ ML-project-Classification-of-Blood-Cancers
 - Check this repository.
 - Install the required dependencies in requirements.txt.
 
+# Usage
+In R, set the working directory of the folder that has the downloaded Microarray datasets.
+Dimensionality reduction.
+Feature Selection.
+ML Classifiers: SVM, RF
 
+# Additional information
+For more instructions, see the code and the documentation provided in this repository.
