@@ -1,0 +1,16 @@
+Project Pipeline:
+- Data Loading and Preprocessing: The GEOquery and affy R packages are used to load and preprocess microaaray gene expression data from the GEO database.
+  Metadata file is downloaded directly from GEO.
+- Count Matrix: Each preprocessed single-dataset is normalized and map theprobe IDs to gene symbols .
+- Dimensionality reduction: The all data frames are dimensionality reduced using PCA algorithm to handle the huge genes compare to the small sample size. 
+- Feature Selection: RFE used to selection the relevant genes that can accuratly classify the three main blood cancer types. 
+
+Algorithms Used:
+- SVM
+- RF
+
+Dependencies:
+- GEOquery, affy,sesameData, tidyverse, sva for dowloading the data, normalize and batch correction using R.
+- pandas reading file in Python.
+- scikit-learn for preprocessing the data and Scaler, PCA, FS, models, and Evaluation.
+- Matplotlib and Seaborn for visualizing data and results.
