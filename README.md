@@ -6,12 +6,8 @@ The aim of this project is to develop a machine learning model that can accurate
 # Installation Instructions
 - Check this repository.
 - Install the required dependencies in requirements.txt.
+- In R, set the working directory of the folder that has the downloaded Microarray datasets
 
-# Usage
-In R, set the working directory of the folder that has the downloaded Microarray datasets.
-Dimensionality reduction.
-Feature Selection.
-ML Classifiers: SVM, RF
 
 # License
 This content is shared under the MIT License. Feel free to use and adapt the materials with proper attribution.
