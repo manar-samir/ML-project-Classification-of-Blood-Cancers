@@ -1,0 +1,22 @@
+#### Parameters:
+# ML Architecture:
+- 80-10% train-test split
+- PCA.
+- Feature Selection: RFE
+- Models: SVM, RF
+- Hyperparameter tunning: GridSearchCV
+
+#### Dependencies:
+# Python code parts (using Jyupter notebook)
+pandas==1.5.3
+sklearn==1.4.2
+Seaborn==0.13.2
+matplotlib==3.8.4
+
+# R code parts (using RStudio, R version 4.3.3 )
+GEOquery==2.70.0
+Biobase==2.62.0
+affy==1.80.0
+tidyverse==2.0.0
+sva==3.50.0
+limma==3.58.1
